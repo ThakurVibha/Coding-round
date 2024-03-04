@@ -16,12 +16,6 @@ This Android app is built using Kotlin and incorporates several modern Android d
 
 This Android app serves [describe its purpose briefly]. It follows the MVVM (Model-View-ViewModel) architecture pattern for better separation of concerns and uses Coroutines for asynchronous programming. Retrofit is utilized for making network requests, and Room Database provides local storage capabilities. LiveData is employed for observing data changes and ViewBinding for efficient view management.
 
-## Features
-
-- [Feature 1 description]
-- [Feature 2 description]
-- ...
-
 ## Technologies Used
 
 - Kotlin

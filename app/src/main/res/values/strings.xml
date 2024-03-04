@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assisgnment Round</string>
+    <string name="age">Age:</string>
+    <string name="last_name">Last name:</string>
+</resources>

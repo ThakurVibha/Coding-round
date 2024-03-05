@@ -1,4 +1,4 @@
-# Android App with Kotlin, Coroutines, Retrofit, MVVM, Room Database, LiveData, ViewBinding
+# Coding Challenge built with Kotlin, Coroutines, Retrofit, MVVM, Room Database, LiveData, ViewBinding
 
 This Android app is built using Kotlin and incorporates several modern Android development practices and libraries including Coroutines, Retrofit, MVVM architecture, Room Database, LiveData, and ViewBinding.
 
